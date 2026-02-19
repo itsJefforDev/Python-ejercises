@@ -16,3 +16,5 @@ elif(number2>number3):
     print('el numero ',number2,' es mayor')
 else:
     print('el numero ',number3,' es mayor')
+
+###Falta verificar si los numeros son iguales
