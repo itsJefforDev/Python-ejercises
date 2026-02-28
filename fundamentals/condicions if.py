@@ -1,4 +1,4 @@
-age = 40
+age = input('Digite su edad: ')
 
 if(age>=18):
     print('es mayor de edad')
