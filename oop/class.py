@@ -4,13 +4,13 @@
 # Métodos → funciones dentro de la clase
 
 
-class NombreDeLaClase:
-    def __init__(self, parametro1, parametro2):
-        self.parametro1 = parametro1
-        self.parametro2 = parametro2
+class Person:
+    def __init__(self, nombre, edad):
+        self.nombre = nombre
+        self.edad = edad
 
-    def metodo(self):
-        print(f"Hola, soy {self.parametro1} y tengo {self.parametro2}")
+    def createPerson(self):
+        print(f"Hola, soy {self.nombre} y tengo {self.edad}")
 
-nombreDeLaClase = NombreDeLaClase("jeff",24)
-nombreDeLaClase.metodo()
+nombreDeLaClase = Person("jeff",24)
+nombreDeLaClase.createPerson()
