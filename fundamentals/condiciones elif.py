@@ -8,13 +8,12 @@ number3 = input('digite el numero 3: ')
 if(number1 > number2):
     if(number1>number3):
         print('el numero ',number1,' es el mayor')
-    elif(number3>number2):
-        print('el numero ',number3,' es el mayor')
     else:
-        print('los tres numero son iguales') 
+        print('el numero ',number3,' es el mayor')
 elif(number2>number3):
-    print('el numero ',number2,' es mayor')
+    print('el numero ',number2,' es mayor elif')
 else:
     print('el numero ',number3,' es mayor')
+
 
 ###Falta verificar si los numeros son iguales
