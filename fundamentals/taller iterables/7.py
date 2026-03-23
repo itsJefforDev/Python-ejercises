@@ -1,3 +1,7 @@
+#     7. Contar mayúsculas 
+# Pídele al usuario una frase. 
+# Muestra cuántos caracteres están en mayúscula. 
+
 text = input("Por favor ingrese una frase: ")
 
 count = 0
