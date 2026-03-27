@@ -4,5 +4,7 @@ and university topics
 
 TOPICS:
 Data types
+Variables
+condicionals
 
 update every week
