@@ -6,5 +6,6 @@ TOPICS:
 Data types
 Variables
 condicionals
+loops
 
 update every week
