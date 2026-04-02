@@ -8,5 +8,6 @@ Variables
 condicionals
 loops
 oop
+list
 
 update every week
