@@ -1,3 +1,8 @@
+#     10. Clasificar caracteres básico  
+# Pídele al usuario una frase. 
+# Muestra: 
+# Cantidad de letras (solo caracteres alfabéticos) y Cantidad de espacios 
+
 text = input("Ingresa una palabra: ")
 countAlpha = 0
 countBlank = 0
