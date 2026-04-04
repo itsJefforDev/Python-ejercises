@@ -1,3 +1,15 @@
+#     11. Registro de datos inmutables  
+ 
+# Crea una lista llamada estudiante con los siguientes datos: 
+# Nombre, Código, Carrera, Promedio final, Estado de matrícula (True o 
+# False) 
+ 
+# Luego: 
+# Muestra los datos de forma legible. 
+# Verifica si el promedio es mayor o igual a 3.0 
+# Si sí, mostrar “Estudiante aprobado” 
+# Si no, “Estudiante reprobado”.
+
 nombre = input("Ingrese su nombre: ")
 codigo = input("Ingrese su codigo: ")
 carrera = input("Ingrese su carrera: ")
