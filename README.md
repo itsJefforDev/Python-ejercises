@@ -1,5 +1,5 @@
 # Python-ejercises
-proyect to learn about python sintax and create python ejercises such as projects, ejercises
+proyect to learn about python sintax and create python ejercises such as projects, ejercises, Homeworks
 and university topics
 
 TOPICS:
@@ -9,5 +9,6 @@ condicionals
 loops
 oop
 list
+
 
 update every week
