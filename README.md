@@ -1,5 +1,5 @@
 # Python-ejercises
-proyect to learn about python sintax and create python ejercises such as projects, ejercises, Homeworks
+proyect to learn about python sintax with logic and create python ejercises such as projects, ejercises, Homeworks
 and university topics
 
 TOPICS:
