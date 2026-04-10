@@ -1,3 +1,13 @@
+# Ejercicio 7 – Menú simple (while)
+# Crear un programa que muestre el menú:
+# 1. Saludar
+# 2. Mostrar mensaje
+# 3. Salir
+# El programa debe repetirse usando while.
+# Si el usuario elige 1   mostrar "Hola usuario"→
+# Si elige 2   mostrar "Aprendiendo Python"→
+# Si elige 3   terminar el programa usando break.→
+
 secretNumber = 6
 
 while True:
