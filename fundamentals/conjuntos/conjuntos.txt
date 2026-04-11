@@ -1,0 +1,28 @@
+estructuras de datos
+Son contenendores que agrupan multiples valores bajo una sola variables
+tienen que ire relacionado a una sola variables
+
+el conjunto
+
+conjunto = {1,2,2,4,5}
+
+solo imprime valores unicos 1,2,4,5
+no hay orden en los conjuntos
+
+metodos tuplas
+
+count(x): cuenta cuantas veces aparece un valores
+    (1,2,2,3).count(2) -> 2
+
+index(x): devuelve la posicion del valor
+    (5,6,7).index(6) -> 1
+
+
+interar tuplas
+
+frutas ()
+for fruta in frutas
+
+
+
+declaracion de conjuntos
