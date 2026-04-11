@@ -1,0 +1,16 @@
+Se puede modificar las listas son mutables
+
+ordenadas, cada elemento tiene su indice
+permiten duplicados
+mezclan distintos tipos de datos
+se crearon para manipular los datos dinamicamente sin longitud
+
+numeros = [10,20,30, 40]
+
+metodos
+append(): agrega un elemento al final
+insert(i,x): inserta en una posicion especifica
+remove(x): elimina el primer elemento igual a x
+pop(i): elimina el primer elemento igual a x
+sort(): Ordena la listas
+reverse(): invierte el orden

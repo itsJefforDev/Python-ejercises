@@ -1,0 +1,33 @@
+no son inmutables es decir, no se pueden modificar una vez haya sido
+creado
+
+1. se crearon para poder proteger los datos que no deben cambiar
+2. para mejorar el rendimiento(ocupan menos memoria que las listas)
+3. se usan en retornos multiples de funciones
+4. Es mucho mas rapida que las listas
+
+* el asterisco muestra los elementos intermedios
+_ imprime los elementos que no se necesitan
+
+intercambio de variables
+
+a, b = 5,10
+a, b = b,a
+print(a,b)
+se intercambia los valores
+
+metodos
+
+
+
+######convertir de lista a tupla
+
+lista = [1,2,3]
+tupla = tuple(lista)
+
+viseversa
+
+tupla = (1,2,3)
+lista = list(tupla)
+
+
