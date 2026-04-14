@@ -9,6 +9,7 @@ condicionals
 loops
 oop
 list
+tuplas
 
 
 update every week
