@@ -11,6 +11,7 @@ oop
 list
 tuplas
 conjunts
+dictionaries
 
 
 update every week
