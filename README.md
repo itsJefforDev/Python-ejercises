@@ -14,7 +14,7 @@ conjunts
 dictionaries
 
 Whats Python?
-Python crearles by Guido rossum
+Python was created by Guido rossum
 
 
 update every week
