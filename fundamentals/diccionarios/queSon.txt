@@ -1,0 +1,18 @@
+Diccionarios
+
+Estructuras clave y valor para organizar la informacion
+
+Que es: es una estructura de datos que almacena pares claves de datos
+
+para organizar datos sin una secuencia predeterminada y busca directamente
+clave
+
+Historia
+
+viene de las tabla hash ennlos anos 70 y se implemento en los 1994
+las tablas hash sib estructura de datos que permitesn almacenar
+
+las estructura es mutale
+las claves son unicas y no se puede repetir, no se pueden cambiar
+los valores pueden ser de cualquier tipo
+
