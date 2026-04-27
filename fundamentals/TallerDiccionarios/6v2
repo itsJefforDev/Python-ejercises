@@ -1,0 +1,19 @@
+materias = {}
+
+for i in range(5):
+    nombre = input(f"Ingrese el nombre de la materia {i+1}: ")
+    nota = float(input(f"Ingrese la nota de {nombre}: "))
+    materias[nombre] = nota
+
+suma = 0
+for nota in materias.values():
+    suma += nota
+
+
+promedio = suma / len(materias)
+
+print("\nMaterias y notas:")
+for materia, nota in materias.items():
+    print(f"{materia}: {nota}")
+
+print(f"\nEl promedio es: {promedio}")
