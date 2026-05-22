@@ -1,0 +1,9 @@
+Un archivo es un contenedor de informacion
+
+modelo de apertura --> open() with para automatizar el cierre
+seguro
+
+R
+w
+a
+x
