@@ -14,7 +14,7 @@ conjunts
 dictionaries
 
 Whats Python?
-Python was created by Guido rossum and it is a lenguage that is used with multiple porpuses, data analytics
+Python was created by Guido rossum and it is a lenguage that is used with multiple porpuses, data analytics, automation
 
 
 update every week
