@@ -15,7 +15,7 @@ dictionaries
 exceptions
 
 Whats Python?
-Python was created by Guido rossum and it is a lenguage that is used with multiple porpuses, data analytics, automation, AI agents, web development, reports and dashboards
+Python was created by Guido rossum and it is a language that is used with multiple porpuses: data analytics, automation, AI agents, web development, reports and dashboards
 
 
 update every week
