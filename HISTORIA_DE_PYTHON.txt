@@ -1,0 +1,59 @@
+
+HISTORIA DE PYTHON
+
+Guido van Rossum (1989) creador de python
+paises bajos
+primer lanzamiento 1991
+
+Que es?
+es el lenguaje mas utilizado en cuanto analisis de datos,
+procesamiento de datos e inteligencia artificial
+
+Que queria el creador?
+El queria crear un lenguaje facil de usar y entendible tanto para escribir como para leer
+
+Porque se llama python?
+NO es por la serpiente, sino que al men vio que el logo es facil de identificar en un programa de comedia
+
+Caracteristicas de python
+Interpretado: Reconoce lo que un humano escribe
+Tipado dinamico: Cambia todo con facilidad
+Multiplataforma: Portable
+Muchas librerias
+
+
+El lenguaje es lento pero dinamico. Lee linea por linea
+
+Multiplataforma y sintaxis clara y legible
+
+ENTORNO DE DESAROLLOS:
+IDLE (viene con python) --> PARCIAL
+VS Code
+Jupyter Notebook (Ciencia de datos)
+Google Colab (Ejecucion en la nube)
+
+
+VARIABLES 
+
+CONSTANTES --> Toda mayuscula para indicar que es una constante ejemplo (EDAD, CEDULA)
+
+---------------------------------------------------------
+TIPOS DE DATOS
+
+int
+float
+str
+bool
+
+----------------------------------------------------------
+
+ENTRADA Y SALIDA
+
+input()
+
+ejemplo: nombre = input("cual es tu edad?")
+
+print("hola {nombre}")
+
+
+
